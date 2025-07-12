@@ -1,8 +1,7 @@
 ## Olá, meu nome é Rafael de Andrade!
 
 - 💻 Atualmente estou trabalhando com front-end.
-- 🤓 Estou aprendendo typescript e python.
-- 😄 Pronouns: ele/dele.
+- 🤓 Aprendendo typescript e python.
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
