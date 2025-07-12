@@ -50,7 +50,7 @@
   😄 Social Media
   <br><br>
    <div style="display: inline_block">
-   <a href ="https://www.instagram.com/crsandrade_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
-   <a href ="https://www.linkedin.com/in/rafael-de-andrade-sousa-da-cruz-2b7778140/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank"/>
-   <a href = "mailto:rafaeldev.andrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href ="https://www.instagram.com/crsandrade_/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+   <a href ="https://www.linkedin.com/in/rafael-de-andrade-sousa-da-cruz-2b7778140/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+   <a href = "mailto:rafaeldev.andrade@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
    </div>
