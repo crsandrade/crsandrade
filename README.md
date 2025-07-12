@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele.
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
 
   <picture>
     <source
@@ -19,7 +19,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=crsandrade&show_icons=true"
       alt="GitHub Stats"
-      height="200"
+      height="200" width="400"
     />
   </picture>
 
@@ -35,7 +35,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=crsandrade&layout=compact"
       alt="Top Langs"
-      height="200"
+      height="200" width="355"
     />
   </picture>
   <hr>
