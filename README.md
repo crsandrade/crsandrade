@@ -3,40 +3,6 @@
 - 💻 Atualmente estou trabalhando com front-end.
 - 🤓 Aprendendo typescript e python.
 
-
-<div align="center" style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=crsandrade&show_icons=true&theme=dracula"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=crsandrade&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=crsandrade&show_icons=true"
-      alt="GitHub Stats"
-      height="200" width="400"
-    />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=crsandrade&layout=compact&theme=dracula"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=crsandrade&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=crsandrade&layout=compact"
-      alt="Top Langs"
-      height="200" width="355"
-    />
-  </picture>
   <hr>
   🛠 Stacks
   <div style="display: inline_block"><br>
