@@ -1,7 +1,7 @@
 ## Olá, meu nome é Rafael de Andrade!
 
 - 💻 Atualmente estou trabalhando com front-end.
-- 🤓 Aprendendo typescript e python.
+- 🤓 Aprendendo typescript e nextjs.
 
   <hr>
   🛠 Stacks
