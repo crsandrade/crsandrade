@@ -34,7 +34,6 @@ A web application focused on **personal financial organization**, designed to be
 - API consumption
 
 🔗 Live Demo: https://www.sucessoplanejado.com.br  
-📂 Repository: https://github.com/your-username/sucesso-planejado
 
 ---
 
