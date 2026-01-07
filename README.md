@@ -1,32 +1,65 @@
-## Olá, meu nome é Rafael de Andrade!
+# 👋 Hi, I'm Rafael de Andrade
 
-- 💻 Atualmente estou trabalhando com front-end.
-- 🤓 Aprendendo typescript e nextjs.
+I'm a **Frontend Developer** focused on building modern, high-performance, and user-centered web interfaces.
 
-  <hr>
-  🛠 Stacks
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br>
-  <hr>
-  😄 Social Media
-  <br><br>
-   <div style="display: inline_block">
-     <a href="https://www.instagram.com/crsandrade_/">
-       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-     </a>
+I have hands-on experience with **JavaScript, React, and Next.js**, applying best practices in component-based architecture, responsive design, API consumption, and version control with Git.
 
-  <a href="https://www.linkedin.com/in/rafael-de-andrade-sousa-da-cruz-2b7778140/">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- 
- <a href="mailto:rafaeldev.andrade@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
-   </div>
+📚 Currently deepening my knowledge in **TypeScript, Next.js, and frontend application architecture**.  
+🎯 Career goal: **Frontend Developer Junior position**.
 
-![snake gif](https://github.com/crsandrade/crsandrade/blob/output/github-contribution-grid-snake.svg)
+---
+
+## 🛠️ Tech Stack
+
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Sucesso Planejado
+A web application focused on **personal financial organization**, designed to be simple, responsive, and user-friendly.
+
+**Technologies used:**
+- React
+- Next.js
+- Tailwind CSS
+- API consumption
+
+🔗 Live Demo: https://www.sucessoplanejado.com.br  
+📂 Repository: https://github.com/your-username/sucesso-planejado
+
+---
+
+## 📌 What I’m Working On
+
+- Improving code quality and readability
+- Strengthening TypeScript fundamentals
+- Building reusable and scalable components
+- Creating real-world projects to solidify frontend concepts
+
+---
+
+##   
+
+<div align=center>
+  
+ <img src="https://raw.githubusercontent.com/SilasPires/silaspires/output/snake.svg" alt="Snake animation" />
+  
+</div>
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rafael-de-andrade-sousa-da-cruz/
+- 📧 Email: rafaeldev.andrade@gmail.com
+
+---
+
+> I'm always open to learning, collaborating, and taking on new challenges that help me grow as a frontend developer!!! Thanks for your attention.
