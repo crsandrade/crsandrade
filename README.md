@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Rafael de Andrade
 
-I'm a **Frontend Developer** focused on building modern, high-performance, and user-centered web interfaces.
+I'm a **FullStack Developer** focused on building modern, high-performance, and user-centered web interfaces.
 
 I have hands-on experience with **JavaScript, React, and Next.js**, applying best practices in component-based architecture, responsive design, API consumption, and version control with Git.
 
 📚 Currently deepening my knowledge in **TypeScript, Next.js, and frontend application architecture**.  
-🎯 Career goal: **Frontend Developer Junior position**.
+🎯 Career goal: **Full Stack Developer**.
 
 ---
 
