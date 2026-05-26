@@ -15,6 +15,7 @@ I have hands-on experience with **JavaScript, React, and Next.js**, applying bes
 - TypeScript
 - React
 - Next.js
+- C#
 - HTML5
 - CSS3
 - Tailwind CSS
@@ -34,6 +35,20 @@ A web application focused on **personal financial organization**, designed to be
 - API consumption
 
 🔗 Live Demo: https://www.sucessoplanejado.com.br  
+
+🔹 New Genesis
+
+A responsive web project for an MMORPG-themed platform, created to present the game universe, news, classes, FAQ, download area, and user account features in a modern and immersive way.
+
+Technologies used:
+
+React
+Next.js
+Tailwind CSS
+Supabase
+API integration
+
+🔗 Live Demo: https://newgenesis-webproject.vercel.app/
 
 ---
 
